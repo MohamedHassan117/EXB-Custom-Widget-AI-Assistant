@@ -59,10 +59,7 @@
           }
         }
       },
-      "order": [
-        "0",
-        "1"
-      ]
+      "order": ["0", "1"]
     },
     "layout_1": {
       "content": {},
@@ -110,12 +107,7 @@
             "symbolOption": {
               "pointSymbol": {
                 "type": "esriSMS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
+                "color": [255, 255, 0, 150],
                 "angle": 0,
                 "xoffset": 0,
                 "yoffset": 0,
@@ -123,43 +115,23 @@
                 "style": "esriSMSCircle",
                 "outline": {
                   "type": "esriSLS",
-                  "color": [
-                    255,
-                    255,
-                    0,
-                    150
-                  ],
+                  "color": [255, 255, 0, 150],
                   "width": 1,
                   "style": "esriSLSSolid"
                 }
               },
               "polylineSymbol": {
                 "type": "esriSLS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
+                "color": [255, 255, 0, 150],
                 "width": 0.75,
                 "style": "esriSLSSolid"
               },
               "polygonSymbol": {
                 "type": "esriSFS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
+                "color": [255, 255, 0, 150],
                 "outline": {
                   "type": "esriSLS",
-                  "color": [
-                    255,
-                    255,
-                    0,
-                    150
-                  ],
+                  "color": [255, 255, 0, 150],
                   "width": 1,
                   "style": "esriSLSSolid"
                 },
@@ -184,9 +156,7 @@
         "selectedMapWidgetId": ""
       },
       "id": "widget_2",
-      "useMapWidgetIds": [
-        "widget_1"
-      ]
+      "useMapWidgetIds": ["widget_1"]
     }
   },
   "widgetsManifest": {},
@@ -195,7 +165,7 @@
   "dialogs": {},
   "messageConfigs": {},
   "attributes": {
-    "portalUrl": "https://esriegypt.maps.arcgis.com",
+    "portalUrl": "https://www.arcgis.com",
     "isWebTier": false,
     "clientId": "gyQyyK8OZCesS2Re",
     "express": false,
@@ -213,7 +183,7 @@
       "type": "WEB_MAP",
       "sourceLabel": "Egypt Population",
       "itemId": "c6bdf8b449b840eeb61324423c7e077f",
-      "portalUrl": "https://esriegypt.maps.arcgis.com"
+      "portalUrl": "https://www.arcgis.com"
     }
   },
   "pageStructure": [
