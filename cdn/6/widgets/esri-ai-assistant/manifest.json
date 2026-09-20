@@ -1,0 +1,25 @@
+{
+  "name": "esri-ai-assistant",
+  "label": "Esri AI Assistant",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "Esri",
+  "description": "Natural language AI assistant connected to the selected Experience Builder map.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "publishMessages": [],
+  "messageActions": [],
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 420,
+    "height": 560,
+    "autoWidth": true,
+    "autoHeight": true
+  },
+  "dependency": "jimu-arcgis",
+  "settingDependency": "jimu-arcgis"
+}
